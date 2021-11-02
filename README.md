@@ -1,4 +1,4 @@
-# jour554
-my code from data reporting class in USC 2021 Fall
+# USC - JOUR 554
+Data and code for JOUR 554
 
-These are my codes.
+Please pull the latest notebooks and data from here each week when you get into class.
